@@ -19,5 +19,5 @@ Python
 - PyTorch (requires Python <= 3.11)
 - Gymnasium
 - Stable Baselines 3
-- Boz2D
+- Box2D
 - Numpy
