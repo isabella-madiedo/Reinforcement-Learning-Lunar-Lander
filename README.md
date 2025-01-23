@@ -12,6 +12,7 @@ The objective of this study is to deploy a Reinforcement Learning model which tr
    3. Training
    4. Evaluation
 3. Demo Deployment
+4. Demo video recording
 
 ### :woman_technologist: Tools Used
 Python
