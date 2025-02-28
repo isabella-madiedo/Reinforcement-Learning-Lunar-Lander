@@ -1,5 +1,9 @@
 # Reinforcement Learning: Lunar Lander Model & Demo :rocket:
 
+<p align="center">
+  <img src="GIF.gif" width="400px">
+</p>
+
 ### :bulb: Description
 The objective of this study is to deploy a Reinforcement Learning model which trains a toy rocket to accurrately land within a designated area of the lunar surface. The model demonstrates the power of RL by significantly outperforming a random agent. In addition, the trained lunar lander agent is showcased in a visual demo.
 
